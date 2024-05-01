@@ -1,0 +1,1 @@
+az vm create -n firstclivm -g testrg --image Ubuntu2204 --vnet-name labvnet --subnet devsubnet --public-ip-address mypublicip --nsg mynsg --admin-username suman --generate-ssh-keys -o table
