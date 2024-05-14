@@ -1,1 +1,1 @@
-# azrecli
+# azurecli
